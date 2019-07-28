@@ -1,9 +1,7 @@
 # leaflet-socrata
-Leaflet maps with Socrata API open data feeds, in GeoJSON and JSON format.
+Leaflet maps with Socrata API open data feeds, in GeoJSON and JSON format. To learn why and how to pair Leaflet with Socrata, see free online book, *Data Visualization for All*, https://datavizforall.org.
 
-## Learn why and how to pair Leaflet with Socrata
-See free online book, *Data Visualization for All*, https://datavizforall.org.
-Requires developers to register for a free Socrata app token at https://dev.socrata.com/register.
+> Requires developers to register for a free Socrata app token at https://dev.socrata.com/register.
 
 ## Demonstration maps
 
